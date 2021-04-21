@@ -1,0 +1,13 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="thooh">
+    <words>
+      <w>debugf</w>
+      <w>debugln</w>
+      <w>errorf</w>
+      <w>errorln</w>
+      <w>infof</w>
+      <w>infoln</w>
+      <w>logrus</w>
+    </words>
+  </dictionary>
+</component>
